@@ -1,0 +1,9 @@
+**Name**: Alessandra Arguello
+
+**Email**: alessandra.arguellog@gmail.com
+
+**Major**: University Studies -- Economics & Data Science
+
+**Programming Experience**: I have some coding experience. I took an elements of computing class in my previous university and used markdown to create a website, as well as used python to create and run basic data scraping and cleaning projects. However, I worked on replit, so using the local terminal is very new to me.
+
+**Favourite Hobby**: reading and watching movies
